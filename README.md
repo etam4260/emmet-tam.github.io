@@ -12,6 +12,10 @@ very simple and to the point.
 ## Work Experience
 My work experience mostly consists of internships for now.
 
+Exelon -> Summer 2021
+
+Fraunhofer USA CMA -> Spring 2021 to Current
+
 ## Research 
 Civil Engineering -- Quantifying the Role of Disaster Aid
 
