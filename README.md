@@ -14,12 +14,14 @@ My work experience mostly consists of internships for now.
 
 ## Research 
 Civil Engineering -- Quantifying the Role of Disaster Aid
-A research project led my Dr. Allison Reilly to determine the impact programs
+
+A research project led my Dr. Allison Reilly to determine the impact of programs
 within NOAA, FEMA, CDBG-DR, SBA have on communities. Most of my efforts were involved
 in data wrangling and visualizations within R. disasteraidr and disasteraidshiny 
 are some of the repos that show this work.
 
 Oceanic and Atmospheric Science -- SENSE @ UMD
+
 A research project led by Dr. Ning Zeng to help track CO2 levels across campus 
 and across the Washington DC area. I spent most of my time contributing to grant
 proposals.
